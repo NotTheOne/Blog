@@ -1,0 +1,1 @@
+My Blog, a blog that I will keep updated in order to keep track of my progress on my way to become a professional developer.
